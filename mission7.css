@@ -584,6 +584,8 @@ header nav {
 	background-color: rgb(237,237,237);
 }
 .item8 .bottom_div .submit {
+	font-family: 黑体;
+	font-size: 12pt;
 	background-color: rgb(237,237,237);	
 	color: black;
 	position: relative;
